@@ -1,0 +1,5 @@
+Script started on Fri Apr 19 14:36:29 2019
+command: /dev/cu.usbmodem14201 9600
+script: /dev/cu.usbmodem14201: Permission denied
+
+Script done on Fri Apr 19 14:36:30 2019
